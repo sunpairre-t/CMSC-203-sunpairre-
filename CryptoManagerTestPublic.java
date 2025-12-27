@@ -1,16 +1,4 @@
-/*
 
- * Class: CMSC203 
- * Instructor:Proffesor Tarek
- * Description: Project 3
- * Due: 10/17/2024
- * Platform/compiler:Ecllipse
- * I pledge that I have completed the programming 
- * assignment independently. I have not copied the code 
- * from a student or any source. I have not given my code 
- * to any student.
-   Print your Name here:Sunpairre Tamene
-*/
 
 	import static org.junit.Assert.*;
 	import static org.junit.jupiter.api.Assertions.assertFalse;
@@ -77,5 +65,6 @@
 		}
 
 	}
+
 
 
